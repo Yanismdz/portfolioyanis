@@ -479,7 +479,7 @@ section
     width:360px;
     height:300px;
     position:relative;
-    margin:20px 18px 10px;
+    margin:20px 5px 10px;
 }
 
 .imgp
@@ -692,6 +692,10 @@ section
 	min-height:calc(100vh - 165px);
     }
 
+    .articlep
+    {
+	margin:20px 18px 10px;
+    }
 }
 
 /* ##################################################################### */
