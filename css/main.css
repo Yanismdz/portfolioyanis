@@ -581,6 +581,12 @@ section
 
 }
 
+.contact
+{
+    max-width:80%;
+    margin: 20px auto;
+}
+
 @media screen and (min-width:850px)
 {
     .contact
